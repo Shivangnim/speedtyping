@@ -23,6 +23,7 @@ body,.quote-input {
     max-width: 90%;
 }
 .timer {
+    color: yellow;
     position: absolute;
     top: 2rem;
     font-size: 3rem;
